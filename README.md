@@ -7,6 +7,4 @@ Here in my github you can see all of my latest work and projects. All the projec
 <p align="left">
   <a href="https://www.linkedin.com/in/eescat2004/">
     <img alt="LinkedIn" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
+  
