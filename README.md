@@ -7,8 +7,6 @@ Here in my github you can see all of my latest work and projects. All the projec
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eescat2004/)
-[![Personal Website](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg)]((https://ethanescat.netlify.app/))
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ___________________________________________________
